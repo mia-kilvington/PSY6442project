@@ -16,3 +16,7 @@ data(mtcars)
 plot(mtcars$hp, mtcars$mpg)
 
 ```
+
+# Link to another Quarto file
+
+Click [here](anotherquarto.html) for another page of this document
